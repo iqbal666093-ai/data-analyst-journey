@@ -1,0 +1,4 @@
+Project 1: Simple Excel Data Analysis.
+Question: What are the highest and lowest values in the data?
+Tools: Excel.
+Result: A simple chart and summary.
