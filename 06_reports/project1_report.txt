@@ -1,0 +1,4 @@
+Project 1: Simple Excel Data Analysis
+Data used: 10, 20, 30, 40, 50
+Highest value: 50
+Lowest value: 10
