@@ -10,3 +10,7 @@ Excel is used to organize and clean data.
 SQL is used to get data from databases.
 Power BI is used to make dashboards and charts.
 Python is used later for deeper analysis.
+First, learn Excel.
+Then learn SQL.
+Then learn Power BI.
+Then build a small project.
