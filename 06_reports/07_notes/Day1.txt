@@ -23,3 +23,6 @@ SQL helps you find rows you need.
 Power BI helps you turn data into charts.
 Power BI helps you make dashboards.
 Power BI helps people understand data quickly.
+A small project helps you practice.
+A project shows what you can do.
+A project gives you something real to upload later.
