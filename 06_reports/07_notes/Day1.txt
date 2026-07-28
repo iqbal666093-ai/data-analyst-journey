@@ -20,3 +20,6 @@ Excel helps you make simple charts.
 SQL is used to get data from databases.
 SQL helps you filter data.
 SQL helps you find rows you need.
+Power BI helps you turn data into charts.
+Power BI helps you make dashboards.
+Power BI helps people understand data quickly.
