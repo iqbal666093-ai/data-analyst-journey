@@ -14,3 +14,6 @@ First, learn Excel.
 Then learn SQL.
 Then learn Power BI.
 Then build a small project.
+Excel helps you organize data.
+Excel helps you clean data.
+Excel helps you make simple charts.
