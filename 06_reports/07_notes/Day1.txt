@@ -1,1 +1,4 @@
 Learning notes start here
+Data analytics is the process of studying data to find useful answers.
+A data analyst helps businesses make better decisions.
+Main tools: Excel, SQL, Power BI.
