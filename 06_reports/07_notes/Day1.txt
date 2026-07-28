@@ -26,3 +26,6 @@ Power BI helps people understand data quickly.
 A small project helps you practice.
 A project shows what you can do.
 A project gives you something real to upload later.
+Every project should have a clear problem.
+Every project should have data.
+Every project should have a result.
