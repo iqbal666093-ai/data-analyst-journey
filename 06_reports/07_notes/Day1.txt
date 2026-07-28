@@ -29,3 +29,6 @@ A project gives you something real to upload later.
 Every project should have a clear problem.
 Every project should have data.
 Every project should have a result.
+A good project has a clear title.
+A good project has one question.
+A good project has a short result summary.
