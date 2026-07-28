@@ -17,3 +17,6 @@ Then build a small project.
 Excel helps you organize data.
 Excel helps you clean data.
 Excel helps you make simple charts.
+SQL is used to get data from databases.
+SQL helps you filter data.
+SQL helps you find rows you need.
