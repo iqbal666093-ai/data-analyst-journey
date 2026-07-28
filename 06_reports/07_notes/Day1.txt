@@ -6,3 +6,7 @@ A data analyst studies data to answer business questions.
 They clean data before using it.
 They make charts or dashboards to show the results.
 They help people make better decisions.
+Excel is used to organize and clean data.
+SQL is used to get data from databases.
+Power BI is used to make dashboards and charts.
+Python is used later for deeper analysis.
